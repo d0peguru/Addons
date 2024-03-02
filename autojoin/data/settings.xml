@@ -1,0 +1,12 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autodecline>false</autodecline>
+        <blacklist />
+        <mode>whitelist</mode>
+        <whitelist>Deathguru,Mortr,Areaden,Mihos</whitelist>
+    </global>
+    <mihos>
+        <whitelist>Areaden,Mihos,Friezakujin,Mortr,Deathguru,Kaidyn</whitelist>
+    </mihos>
+</settings>
